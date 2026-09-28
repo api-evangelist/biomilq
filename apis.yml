@@ -1,7 +1,6 @@
 aid: biomilq
 name: Biomilq
-description: 'Biomilq is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+description: 'Biomilq is a women‑owned, science‑led biotechnology start‑up focused on mammary biotechnology. It leverages patented technology to produce functional cell‑cultured human milk components outside the body, aiming to bridge the gap between breast milk and infant formula. The company seeks to revolutionize early‑life nutrition by delivering the benefits of human milk through innovative, scalable biomanufacturing.'
 url: https://raw.githubusercontent.com/api-evangelist/biomilq/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:secondary-market
@@ -12,6 +11,10 @@ created: '2026-09-28'
 modified: '2026-09-28'
 tags:
 - Company
+- Biotechnology
+- Milk
+- Health
+- Start-up
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -20,4 +23,5 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://equityzen.com/company/biomilq
+  url: https://www.linkedin.com/company/biomilq
+
